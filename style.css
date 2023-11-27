@@ -1821,6 +1821,7 @@ transition-duration: 1.6s;
     }
     .landing-page-container{
         height: 85vh;
+        padding-top: 0;
     }
     .project-box{
         height: 550px;
