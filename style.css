@@ -336,7 +336,7 @@ noscript{
 .logo{
     position: relative;
     width: 10%;
-    height: 100%;
+    height: 170%;
     transition-duration: 1s;
     display: flex;
     flex-direction: column;
